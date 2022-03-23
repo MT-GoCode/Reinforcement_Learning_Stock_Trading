@@ -1,1 +1,2 @@
-# RL_Stocks_Project
+# Reinforcement Learning Agent to Choose Optimal Technical Trading Strategies For Stocks
+Minh Trinh
